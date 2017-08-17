@@ -1,0 +1,38 @@
+    input[type=text], input[type=submit] {
+        padding: 7px;
+        color: yellow;
+        background: #1c2900;
+        border: 2px solid #385400;
+                     }
+    input[type=text]:hover, input[type=submit]:hover {
+        text-shadow: 0 1px 0px #FF00FF,0 0 3px #FF00FF,0 0 5px #FF00FF,0 0 30px #FF00FF,0 3px 50px #FF00FF;
+                     }
+a { 
+  color: #75bf00; 
+  text-decoration : none;
+}
+a:hover {
+color : #ff4e00;
+text-decoration : none;
+}
+.ctr {
+text-align: center
+}
+h1, h2, h3, h4, h5, h6 {
+font-size : 16px;
+margin: 0px;
+padding: 0px;
+}
+body {
+color: #CCCCCC;
+font-size : 16px;
+background-color : #fff;
+margin : 0;
+padding : 0;
+border : 1px solid #5b5b5b;
+margin: 0;
+margin: auto;
+max-width: 900px;
+}
+table { width: 100% }
+td { padding: 5px; }
