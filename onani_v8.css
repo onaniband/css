@@ -1,0 +1,197 @@
+a { 
+    color: #3b5998;
+    text-decoration: none;
+    }
+    a:hover {
+        color: #ff4e00;
+        text-decoration: none;
+    }
+    .onani_link_ads {
+        color: orangered;
+    }
+.onani_txt_marked {
+    color: #75bf00;
+}
+.ctr {
+    text-align: center
+}
+h1, h2, h3, h4, h5, h6 {
+    font-size: 16px;
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    color: #555;
+    font-size: 16px;
+    background: #fff;
+    margin: 0;
+    padding: 0;
+    border: 1px solid #ddd;
+    margin: 0;
+    margin: auto;
+    max-width: 900px;
+    font-family: \'Play\', sans-serif;
+}
+table {
+    width: 100% 
+}
+td {
+    padding: 5px; 
+}
+h3 {
+    color: #75bf00;
+    background: #030500;
+    background-image: url(https://raw.githubusercontent.com/onaniband/extcdn/master/3068007_e0b1d0e2fa.gif); 
+    background-repeat: repeat-x;
+    background-position: 50% top;
+    padding: 5px;
+    text-align: center;
+    border: 1px solid #415f00;
+}
+h4 {
+    color: #bd0000;
+    background-color: #050000;
+    background-image: url(https://raw.githubusercontent.com/onaniband/extcdn/master/3068010_45cedbbf98.gif);
+    background-repeat: repeat-x;
+    background-position: 50% top;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    padding: 5px;
+    text-align: center;
+    border: 1px solid #590000;
+}
+.onani_web_name {
+    color: green;
+}
+.onani_powered_by {
+    color: red;
+}
+.onani_last {
+    border: 1px solid darkorange;
+    padding: 2px;
+    margin: 1px;
+    text-align: justify;
+}
+.onani_list {
+    border: 1px solid #ccc;
+    padding: 2px;
+    margin: 1px;
+    text-align: justify;
+}
+.onani_site_list {
+    border: 1px solid #ddd;
+    background: #FFFEBD;
+    padding: 2px;
+    margin: 1px;
+}
+.onani_footer {
+    padding: 5px;
+    font-family: \'Lobster\', sans-serif;
+}
+.onani_copyright {
+    background: #847C84;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    margin: 0;
+    padding: 3px;
+    color: #FFDF07;
+}
+.onani_cat_list {
+    border: 1px solid #FF2146;
+    padding: 2px;
+    margin: 1px;
+            }
+            .onani_cat_list a {
+            color: #EF54FF;
+            }
+            .onani_cat_list a:hover {
+            color: #D07703;
+            }
+.onani_nav_menu {
+    background:dodgerblue;
+    border: 5px 5px 5px 5px;
+    text-align: center;
+                }
+               .onani_nav_menu a {
+               color:#fff;
+               font-weight:bold;
+                 }
+               .onani_nav_menu td { 
+               padding:5px;
+               background:#444;
+               border: 5px 5px 5px 5px;
+               width: 33%;
+               text-align: center;
+                 }
+.onani_search_box {
+    text-align:center;
+    padding: 5px;
+                  }
+                  .onani_search_box input[type=text], input[type=submit] {
+                  padding: 7px;
+                  color: blue;
+                  background: #fff;
+                  border: 1px solid #385400;
+                  font-weight: bold;
+                   }
+                  .onani_search_box input[type=text]:hover, input[type=submit]:hover {
+                  text-shadow: 0 1px 0px #FF00FF,0 0 3px #FF00FF,0 0 5px #FF00FF,0 0 30px #FF00FF,0 3px 50px #FF00FF;
+                  font-weight: bold;
+                  }
+                  .onani_search_box input[name=music] {
+                   background: #FF9304;
+                   color: #fff;
+                   font-weight: bold;
+                  }
+                  .onani_search_box input[name=video] {
+                   background: #35AE09;
+                   color: #fff;
+                   font-weight: bold;
+                  }
+.onani_breadcrumbs {
+    background: #9ACD32;
+    color: #555;
+    padding: 5px;
+    padding-left: 7px;
+                   }
+                   .onani_breadcrumbs a {
+                   color: red;
+                   }
+.onani_nav_video {
+    padding: 5px;
+    text-align: center;
+    background: #ddd;
+                 }
+                 .onani_nav_video select {
+                     padding: 3px;
+                     color: #222;
+                     background: #dee;
+                     border: 1px solid #385400;
+                     width: 100%;
+                 }
+                 .onani_nav_video input[type=submit] {
+                     padding: 4px;
+                     color: #fff; 
+                     background: #6D0BFF;
+                     border: 1px solid #385400;
+                     width: 100%;
+                 }
+                 .onani_nav_video td {
+                     padding: 3px;
+                 }
+.onani_next_link {
+    padding: 7px;
+    text-align: center;
+    border: 1px solid #8B60CD;
+    margin: 1px;
+                 }
+                 .onani_next_link a {
+                 padding: 5px;
+                 background: #6D0BFF;
+                 margin: 2px;
+                 display: inline-block;
+                 color: #fff;
+                 font-weight: bold;
+                 }
+                  
