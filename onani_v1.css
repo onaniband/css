@@ -33,7 +33,7 @@ body {
     margin: 0;
     margin: auto;
     max-width: 900px;
-    font-family: \'Play\', sans-serif;
+    font-family: 'Play', sans-serif;
 }
 table {
     width: 100% 
@@ -89,7 +89,7 @@ h4 {
 }
 .onani_footer {
     padding: 5px;
-    font-family: \'Lobster\', sans-serif;
+    font-family: 'Lobster', sans-serif;
 }
 .onani_copyright {
     background: #847C84;
