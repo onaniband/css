@@ -1,6 +1,6 @@
+@import url(\'https://fonts.googleapis.com/css?family=Lobster&subset=cyrillic,latin-ext,vietnamese\');
+@import url(\'https://fonts.googleapis.com/css?family=Play&subset=cyrillic,cyrillic-ext,greek,latin-ext,vietnamese\');
 
-@import url('https://fonts.googleapis.com/css?family=Lobster&subset=cyrillic,latin-ext,vietnamese');
-@import url('https://fonts.googleapis.com/css?family=Play&subset=cyrillic,cyrillic-ext,greek,latin-ext,vietnamese');
 a{ 
     color: #3b5998;
     text-decoration: none;
@@ -33,7 +33,7 @@ body {
     margin: 0;
     margin: auto;
     max-width: 900px;
-    font-family: 'Play', sans-serif;
+    font-family: \'Play\', sans-serif;
 }
 table {
     width: 100% 
@@ -42,21 +42,15 @@ td {
     padding: 5px; 
 }
 h3 {
-    color: #75bf00;
-    background: #030500;
-    background-image: url(https://raw.githubusercontent.com/onaniband/extcdn/master/3068007_e0b1d0e2fa.gif); 
-    background-repeat: repeat-x;
-    background-position: 50% top;
+    color: #FFFFFF;
+    background: #FF5733;
     padding: 5px;
     text-align: center;
     border: 1px solid #415f00;
 }
 h4 {
-    color: #bd0000;
-    background-color: #050000;
-    background-image: url(https://raw.githubusercontent.com/onaniband/extcdn/master/3068010_45cedbbf98.gif);
-    background-repeat: repeat-x;
-    background-position: 50% top;
+    color: #FFFFFF;
+    background-color: #C2185B;
     margin-top: 1px;
     margin-bottom: 1px;
     padding: 5px;
@@ -89,7 +83,7 @@ h4 {
 }
 .onani_footer {
     padding: 5px;
-    font-family: 'Lobster', sans-serif;
+    font-family: \'Lobster\', sans-serif;
 }
 .onani_copyright {
     background: #847C84;
@@ -112,7 +106,7 @@ h4 {
             color: #D07703;
             }
 .onani_nav_menu {
-    background:dodgerblue;
+    background: #F57F17;
     border: 5px 5px 5px 5px;
     text-align: center;
                 }
@@ -122,10 +116,21 @@ h4 {
                  }
                .onani_nav_menu td { 
                padding:5px;
-               background:#444;
                border: 5px 5px 5px 5px;
                width: 33%;
                text-align: center;
+                 }
+               .onani_nav_menu td:nth-child(1) {
+               color: #FFFFFF;
+               background: #1976D2;
+                 }
+               .onani_nav_menu td:nth-child(2) {
+               color: #FFFFFF;
+               background: #E91E63;
+                 }
+               .onani_nav_menu td:nth-child(3) {
+               color: #FFFFFF;
+               background: #2E7D32;
                  }
 .onani_search_box {
     text-align:center;
@@ -197,4 +202,3 @@ h4 {
                  color: #fff;
                  font-weight: bold;
                  }
-                  
